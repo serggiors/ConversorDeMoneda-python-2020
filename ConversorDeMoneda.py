@@ -10,9 +10,9 @@ def conversor(tipo_pesos, valor_dolar):
 menu = """
 Bienvenido al conversor de monedas 💰
 
-1 - Pesos colombianos
-2 - Pesos argentinos
-3 - Pesos mexicanos
+1 - Pesos Colombianos
+2 - Pesos Argentinos
+3 - Pesos Mexicanos
 
 Elige una opción: """
 
