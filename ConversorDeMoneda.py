@@ -14,7 +14,7 @@ Bienvenido al conversor de monedas 💰
 2 - Pesos Argentinos
 3 - Pesos Mexicanos
 
-Elige una opción: """
+Elige que moneda desea convertir en USD: """
 
 opcion = int(input(menu))
 
